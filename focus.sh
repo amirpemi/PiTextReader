@@ -1,4 +1,4 @@
-#!/bin/bash
+
 # Utility to help with lighting and focusing camera
 # Use a browser and navigate to the URL displayed 
 
