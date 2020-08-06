@@ -1,6 +1,3 @@
-#!/bin/bash
-# TEST RASPI 
-
 
 # CLEANUP
 rm -f test.jpg test.txt
