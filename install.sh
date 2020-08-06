@@ -4,7 +4,7 @@ sudo apt-get update
 
 echo  
 
-# Install packages
+# Install two packages
 sudo apt-get install -y tesseract-ocr flite
 
 
