@@ -115,9 +115,8 @@ def getData():
     playTTS()
     return
 
-######
 # MAIN
-######
+
 try:
     global rt
     # Setup Logging
