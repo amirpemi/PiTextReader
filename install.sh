@@ -1,14 +1,3 @@
-#!/bin/bash
-# Install PiTextReader
-# 
-# Run using:
-# $ sh install.sh
-#
-# Can be safely run multiple times
-#
-# version 20180210
-#
-
 # Make sure python requirements are installed
 sudo apt-get update
 #sudo apt-get install -y build-essential python-pip python-dev 
